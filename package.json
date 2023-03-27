@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "professionalread.me",
   "version": "1.0.0",
   "description": "",
@@ -8,4 +9,24 @@
   },
   "author": "",
   "license": "ISC"
+=======
+  "name": "professional-read.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambria1223/Professional-READ.me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambria1223/Professional-READ.me/issues"
+  },
+  "homepage": "https://github.com/Ambria1223/Professional-READ.me#readme"
+>>>>>>> 7a773eb5a6c37ec20d5523e5c8579290c8937fd4
 }
